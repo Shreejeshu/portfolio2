@@ -395,7 +395,7 @@ video:hover {}
     padding-left: 41px;
     padding-top: -50px;
     float: left;
-    margin-top: 268px;
+    margin-top: 276px;
     margin-left: -304px;
     padding-right: 99px;
     padding: 8px;
@@ -427,7 +427,7 @@ video:hover {}
 
     .dw1 {
         margin-left: 35px;
-        width: 94px;
+        width: 99px;
         height: 30px;
         font-size: xx-small;
         padding: 20px;
@@ -636,7 +636,7 @@ video:hover {}
     .navbar{
         background-color: black;
          width: 122%;
-         margin-left: -12px;
+         margin-left: -11px;
     }
     
 }
@@ -726,4 +726,5 @@ width: 100%;
 .navbar{
     background-color: black;
     width: 122%;
+    margin-left:
 }
