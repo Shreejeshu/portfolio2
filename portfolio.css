@@ -23,12 +23,12 @@
 .bb1 {
     
         background-color: black;
-        background: linear-gradient(to right, black 0, black 60%, #f9004d 100%);
+        background: linear-gradient(to right, black 0, black 40%, #f9004d 100%);
         background: linear-gradient;
         height: 688px;
         margin-bottom: 469px;
         margin-top: -78px;
-        width: 105%;
+        width: 122%;
         margin-left: 0px;
     }
 
@@ -36,15 +36,16 @@
 
 
 .imag1 {
-
-    border-radius: 202px;
+    border-radius: 205px;
     border-bottom: -1px solid #f9004d;
-    margin-left: 763px;
-    margin-top: 173px;
-    width: 375px;
-    height: 401px;
-    border-top: -1px solid white;
+    margin-left: 666px;
+    margin-top: 227px;
+    width: 22%;
+    height: 340px;
+    border-top: palegoldenrod;
+    padding-top: -16px;
 }
+
 
 #navbarNav {}
 
@@ -65,7 +66,7 @@
 #hello1 {
 
     color: white;
-    margin-top: -320px;
+    margin-top: -286px;
     margin-left: 188px;
     font-size: 19px;
     font-weight: 700;
@@ -95,7 +96,7 @@
 }
 
 .bb2 {
-    width: 105%;
+    width: 122%;
     height: 400px;
     background-color: #191919;
     margin-top: -469px;
@@ -154,7 +155,7 @@ h5:hover {
 }
 
 .div1 {
-    width: 105%;
+    width: 122%;
     height: 500px;
     background-color: black;
 
@@ -198,9 +199,10 @@ p {
 }
 
 #div2 {
-    width: 100%;
+    width: 122%;
     height: 1480px;
     background-color: #191919;
+    margin-left: 6px;
   
 }
 
@@ -219,16 +221,17 @@ p {
     font-size: 46px;
     margin-left: 111px;
     margin-top: 51px;
-    padding-top: 99px;
+    padding-top: 71px;
     color: white;
     font-weight: 900;
     font-family: serif;
 }
 
 .img7 {
-    width: 528px;
-    margin-left: 104px;
-    margin-top: 59px;
+    width: 360px;
+    margin-left: 58px;
+    margin-top: 69px;
+    height: 206px;
 
 }
 
@@ -244,56 +247,56 @@ p {
 
 .img7:hover {
     background: linear-gradient(rgba(22, 22, 22, 0.06) 0%, #f9004d 100%);
-    ;
+    
 }
 
 .w1 {
     margin-top: 42px;
-    margin-left: 251px;
+    margin-left: 153px;
     color: white;
     font-size: 25px;
     font-family: serif;
 }
 
 .img2 {
-    width: 528px;
-    margin-left: 738px;
-    margin-top: -465px;
+    width: 350px;
+    margin-left: 495px;
+    margin-top: -392px;
+    height: 203px;
 }
 
 .w2 {
-    margin-left: 836px;
+    margin-left: 536px;
     color: white;
-    margin-top: -71px;
+    margin-top: -60px;
     font-family: serif;
 }
 
 .img3 {
-    width: 528px;
+    width: 357px;
     margin-left: 0x;
-    margin-top: 79px;
-    margin-left: 111px;
+    margin-top: 94px;
+    margin-left: 47px;
 }
 
 .w3 {
-    margin-left: 165px;
+    margin-left: 76px;
     margin-top: 38px;
     color: white;
     font-family: serif;
 }
 
 .img4 {
-
-    width: 528px;
-    margin-left: 777px;
-    margin-top: -475px;
+    width: 359px;
+    margin-left: 485px;
+    margin-top: -390px;
 }
 
 video:hover {}
 
 .w4 {
-    margin-left: 930px;
-    margin-top: -70px;
+    margin-left: 602px;
+    margin-top: -59px;
     color: white;
     font-family: serif;
 }
@@ -387,16 +390,17 @@ video:hover {}
     }
 
     .button1 {
-        width: 100px;
-        font-size: small;
-        padding-left: 41px;
-        padding-top: -50px;
-        float: left;
-        margin-top: 282px;
-        margin-left: -300px;
-        padding-right: 99px;
-        padding: 8px;
-        height: 44px;
+        width: 89px;
+    font-size: small;
+    padding-left: 41px;
+    padding-top: -50px;
+    float: left;
+    margin-top: 268px;
+    margin-left: -304px;
+    padding-right: 99px;
+    padding: 8px;
+    height: 44px;
+
     }
 
 
@@ -599,24 +603,26 @@ video:hover {}
         font-size:xx-small;
     }
     .bb2{
-        width: 105%;
+        width: 119%;
     }
     .bb1{
-        width: 105%;
+        width: 119%;
         margin-top: -105px;
+        
     }
     .div1{
-        width: 105%;
+        width: 119%;
     }
     #div2{
-        width: 105%;
+        width: 99%;
         margin-left: 11px;
     }
     .row{
-        width: 105%;
+        width: 124%;
+        margin-left: -15px;
     }
-    .ff{
-        width: 100%;
+    .hro{
+        margin-left: -11px
     }
     .mm{
         font-size: small;
@@ -627,25 +633,38 @@ video:hover {}
     .cc{
         width: 50px;
     }
+    .navbar{
+        background-color: black;
+         width: 122%;
+         margin-left: -12px;
+    }
+    
 }
 
+@media only screen and(max-width:1300px)
 
-
+{
+   .img1 {
+    width:200px;
+    margin-left: 200px;
+    }
+}
 body {
     margin: 0;
     font-family: sans-serif;
 }
 
 .row {
-    width: 106%;
-    margin-left: -15px;
+    width: 123%;
+    margin-left: -21px;
 }
 
 
-.ff {
-    width: 105%;
+.hro {
+    width: 122%;
     height: 530px;
     background-color: black;
+   
 
 }
 
@@ -703,4 +722,8 @@ width: 100%;
 }
 .dw1:hover{
     background-color: #191919;
+}
+.navbar{
+    background-color: black;
+    width: 122%;
 }
