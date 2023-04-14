@@ -290,7 +290,7 @@ p {
 
 
 .img4 {
-    width: 359px;
+      width: 359px;
     margin-left: 485px;
     margin-top: -365px;
 }
@@ -386,7 +386,7 @@ video:hover {}
 @media only screen and (max-width:700px) {
     .gg1 {
         font-size: x-small;
-        padding-left: 37px;
+        padding-left: 68px;
         padding-top: -50px;
         float: left;
         margin-top: 154px;
@@ -607,19 +607,22 @@ video:hover {}
         font-size:xx-small;
     }
     .bb2{
-        width: 119%;
+        width: 120%;
+        margin-left: -3px;
     }
     .bb1{
-        width: 119%;
+        width: 120%;
         margin-top: -105px;
+        margin-left: -3px;
         
     }
     .div1{
-        width: 119%;
+        width: 120%;
+        margin-left: -3px;
     }
     #div2{
-        width: 99%;
-        margin-left: 11px;
+        width: 98%;
+        margin-left: 15px;
     }
     .row{
         width: 124%;
