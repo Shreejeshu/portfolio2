@@ -38,10 +38,10 @@
 .imag1 {
     border-radius: 205px;
     border-bottom: -1px solid #f9004d;
-    margin-left: 666px;
+    margin-left: 735px;
     margin-top: 227px;
-    width: 22%;
-    height: 340px;
+    width: 19%;
+    height: 305px;
     border-top: palegoldenrod;
     padding-top: -16px;
 }
@@ -254,7 +254,7 @@ p {
     margin-top: 42px;
     margin-left: 153px;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     font-family: serif;
 }
 
@@ -266,10 +266,11 @@ p {
 }
 
 .w2 {
-    margin-left: 536px;
+    margin-left: 520px;
     color: white;
-    margin-top: -60px;
+    margin-top: -55px;
     font-family: serif;
+    font-size: 20px;
 }
 
 .img3 {
@@ -284,12 +285,14 @@ p {
     margin-top: 38px;
     color: white;
     font-family: serif;
+    font-size: 21px;
 }
+
 
 .img4 {
     width: 359px;
     margin-left: 485px;
-    margin-top: -390px;
+    margin-top: -365px;
 }
 
 video:hover {}
@@ -299,6 +302,7 @@ video:hover {}
     margin-top: -59px;
     color: white;
     font-family: serif;
+    font-size: 20px
 }
 
 .w1:hover,
@@ -396,7 +400,7 @@ video:hover {}
     padding-top: -50px;
     float: left;
     margin-top: 276px;
-    margin-left: -304px;
+    margin-left: -324px;
     padding-right: 99px;
     padding: 8px;
     height: 44px;
@@ -427,8 +431,8 @@ video:hover {}
 
     .dw1 {
         margin-left: 35px;
-        width: 99px;
-        height: 30px;
+        width: 108px;
+        height: 40px;
         font-size: xx-small;
         padding: 20px;
         padding-top: 10px;
@@ -484,14 +488,14 @@ video:hover {}
     .w2 {
         margin-left: 106px;
         margin-top: 47px;
-        font-size: large;
+        font-size: medium;
         font-family: serif;
     }
 
     .w1 {
-        font-size: large;
+        
         margin-left: 136px;
-        font-size: large;
+        font-size: medium;
         font-family: serif;
     }
 
@@ -512,13 +516,13 @@ video:hover {}
     .w4 {
         margin-left: 146px;
         margin-top: 28px;
-        font-size: large;
+        font-size:medium;
         font-family: serif;
     }
 
     .w3 {
         margin-left: 101px;
-        font-size: large;
+        font-size: medium;
         font-family: serif;
 
     }
@@ -726,5 +730,5 @@ width: 100%;
 .navbar{
     background-color: black;
     width: 122%;
-    margin-left:
+  
 }
