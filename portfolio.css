@@ -220,7 +220,7 @@ p {
 .my {
     font-size: 46px;
     margin-left: 111px;
-    margin-top: 51px;
+    margin-top: 10px;
     padding-top: 71px;
     color: white;
     font-weight: 900;
@@ -612,7 +612,7 @@ video:hover {}
     }
     .bb1{
         width: 120%;
-        margin-top: -105px;
+        margin-top: 0;
         margin-left: -3px;
         
     }
@@ -622,8 +622,10 @@ video:hover {}
     }
     #div2{
         width: 98%;
-        margin-left: 15px;
+        height: 2139px;
+        margin-left: 16px;
     }
+    
     .row{
         width: 124%;
         margin-left: -15px;
@@ -645,12 +647,19 @@ video:hover {}
          width: 122%;
          margin-left: -11px;
     }
-    
+     
+.nav-link1{
+    margin-left: 0px;
+}
+.nav-link2{
+    margin-left: 0px;
+}
 }
 
 @media only screen and(max-width:1300px)
 
 {
+
    .img1 {
     width:200px;
     margin-left: 200px;
@@ -680,7 +689,7 @@ body {
     font-family: serif;
     font-size: 40px;
     margin-left: 133px;
-    margin-top: 0px;
+    margin-top: 86px;
     padding-top: 75px;
 }
 
