@@ -756,7 +756,7 @@ body {
 }
 
 .cc {
-    margin-top: -154px;
+    margin-top: -1px;
     margin-left: 367px;
     border-radius: 9px;
     width: 440px;
@@ -880,7 +880,7 @@ body {
 
 .ua {
     margin-left: 367px;
-    margin-top: 211px;
+    margin-top: 137px;
     width: 440px;
     background: 191919;
     background-color: #191919;
@@ -892,13 +892,14 @@ body {
 
 .ua1 {
     margin-left: 371px;
-    margin-top: -16px;
+    margin-top: 34px;
     width: 440px;
     background: 191919;
     background-color: #191919;
     color: white;
     border-radius: 9px;
 }
+
 
 .nn1 {
     margin-left: 20px;
