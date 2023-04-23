@@ -613,25 +613,26 @@ video:hover {}
 
     .bb2 {
         width: 122%;
-        margin-left: -3px;
+        margin-left: 0px;
     }
 
     .bb1 {
         width: 122%;
         margin-top: 0;
-        margin-left: -3px;
+        margin-left: 0px;
 
     }
 
     .div1 {
         width: 122%;
-        margin-left: -3px;
+    margin-left: 0px;
     }
 
     #div2 {
         width: 101%;
         height: 2139px;
-        margin-left: 21px;
+        margin-left: 22px;
+    
     }
 
     .row {
@@ -661,7 +662,7 @@ video:hover {}
     .navbar {
         background-color: black;
         width: 122%;
-        margin-left: -3px;
+        margin-left: 0px;
     }
 
     .nav-link1 {
