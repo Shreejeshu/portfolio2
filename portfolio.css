@@ -1,7 +1,7 @@
 * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .nav-brand {
@@ -21,16 +21,16 @@
 }
 
 .bb1 {
-    
-        background-color: black;
-        background: linear-gradient(to right, black 0, black 40%, #f9004d 100%);
-        background: linear-gradient;
-        height: 688px;
-        margin-bottom: 469px;
-        margin-top: -78px;
-        width: 122%;
-        margin-left: 0px;
-    }
+
+    background-color: black;
+    background: linear-gradient(to right, black 0, black 40%, #f9004d 100%);
+    background: linear-gradient;
+    height: 688px;
+    margin-bottom: 469px;
+    margin-top: -78px;
+    width: 122%;
+    margin-left: 0px;
+}
 
 
 
@@ -104,19 +104,19 @@
 }
 
 button {
-        padding: 13px;
-        background-color: #f9004d;
-        margin-left: 196px;
-        margin-top: 20px;
-        margin-bottom: 42px;
-        float: left;
-        padding-left: 34px;
-        padding-right: 35px;
-        text-decoration: none;
-        color: white;
-        border-radius: 30px;
-        font-size: 20px;
-        font-family: serif;
+    padding: 13px;
+    background-color: #f9004d;
+    margin-left: 196px;
+    margin-top: 20px;
+    margin-bottom: 42px;
+    float: left;
+    padding-left: 34px;
+    padding-right: 35px;
+    text-decoration: none;
+    color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    font-family: serif;
 }
 
 button:hover {
@@ -199,11 +199,11 @@ p {
 }
 
 #div2 {
-    width: 122%;
-    height: 1480px;
+    width: 101%;
+    height: 1615px;
     background-color: #191919;
-    margin-left: 6px;
-  
+    margin-left: 22px;
+
 }
 
 .button1 {
@@ -247,7 +247,7 @@ p {
 
 .img7:hover {
     background: linear-gradient(rgba(22, 22, 22, 0.06) 0%, #f9004d 100%);
-    
+
 }
 
 .w1 {
@@ -290,7 +290,7 @@ p {
 
 
 .img4 {
-      width: 359px;
+    width: 359px;
     margin-left: 485px;
     margin-top: -365px;
 }
@@ -390,20 +390,20 @@ video:hover {}
         padding-top: -50px;
         float: left;
         margin-top: 154px;
-    
+
     }
 
     .button1 {
         width: 89px;
-    font-size: small;
-    padding-left: 41px;
-    padding-top: -50px;
-    float: left;
-    margin-top: 276px;
-    margin-left: -324px;
-    padding-right: 99px;
-    padding: 8px;
-    height: 44px;
+        font-size: small;
+        padding-left: 41px;
+        padding-top: -50px;
+        float: left;
+        margin-top: 276px;
+        margin-left: -324px;
+        padding-right: 99px;
+        padding: 8px;
+        height: 44px;
 
     }
 
@@ -420,7 +420,7 @@ video:hover {}
 
     .hello2 {
         margin-left: 24px;
-    font-size: 10px;
+        font-size: 10px;
     }
 
     #hello1 {
@@ -436,7 +436,7 @@ video:hover {}
         font-size: xx-small;
         padding: 20px;
         padding-top: 10px;
-        margin-top: 0px;
+        margin-top: 23px;
     }
 
     .imag1 {
@@ -493,7 +493,7 @@ video:hover {}
     }
 
     .w1 {
-        
+
         margin-left: 136px;
         font-size: medium;
         font-family: serif;
@@ -516,7 +516,7 @@ video:hover {}
     .w4 {
         margin-left: 146px;
         margin-top: 28px;
-        font-size:medium;
+        font-size: medium;
         font-family: serif;
     }
 
@@ -592,125 +592,190 @@ video:hover {}
     #p9 {
         margin-left: 290px;
     }
-    .mm{
-      margin-left: 20px;
+
+    .mm {
+        margin-left: 20px;
     }
-    .fa-brands{
+
+    .fa-brands {
         margin-left: 30px;
     }
-    a{
+
+    a {
         margin-left: -96px;
-    width: 28px;
-    font-size: small;
+        width: 28px;
+        font-size: small;
     }
-    i{
-        font-size:xx-small;
+
+    i {
+        font-size: xx-small;
     }
-    .bb2{
-        width: 120%;
+
+    .bb2 {
+        width: 122%;
         margin-left: -3px;
     }
-    .bb1{
-        width: 120%;
+
+    .bb1 {
+        width: 122%;
         margin-top: 0;
         margin-left: -3px;
-        
+
     }
-    .div1{
-        width: 120%;
+
+    .div1 {
+        width: 122%;
         margin-left: -3px;
     }
-    #div2{
-        width: 98%;
+
+    #div2 {
+        width: 101%;
         height: 2139px;
-        margin-left: 16px;
+        margin-left: 21px;
     }
-    
-    .row{
-        width: 124%;
-        margin-left: -15px;
+
+    .row {
+        height: 224%;
+        background-color: black;
+        width: 121%;
+        margin-right: -4px;
+
     }
-    .hro{
+
+    .hro {
         margin-left: -11px
     }
-    .mm{
+
+    .mm {
         font-size: small;
     }
-    .jj{
+
+    .jj {
         font-size: small;
     }
-    .cc{
+
+    .cc {
         width: 50px;
     }
-    .navbar{
+
+    .navbar {
         background-color: black;
-         width: 122%;
-         margin-left: -11px;
+        width: 122%;
+        margin-left: -3px;
     }
-     
-.nav-link1{
-    margin-left: 0px;
-    font-size: large;
-    
-}
-.nav-link2{
-    margin-left: 0px;
-    font-size: large;
-}
-}
 
-@media only screen and(max-width:1300px)
+    .nav-link1 {
+        margin-left: 0px;
+        font-size: large;
 
-{
+    }
 
-   .img1 {
-    width:200px;
-    margin-left: 200px;
+    .nav-link2 {
+        margin-left: 0px;
+        font-size: large;
+    }
+
+    #is {
+        height: 900px;
+    }
+
+    .ua {
+        width: 20px;
+    }
+
+    .ua1 {
+        width: 30px;
+    }
+
+    .nn1 {
+        margin-left: 20px;
+    }
+
+    #x1 {
+        width: 50%;
+        margin-top: -179px;
+        margin-left: -31px;
+        margin-right: 92px;
+    }
+
+    #button2 {
+        margin-left: 383px;
+        margin-top: 39px;
+    }
+    #dx{
+        margin-left: 103px;
+    }
+    .ddd{
+        margin-left: 286px;
+    }
+    .xxw{
+                margin-left: 20px;
     }
 }
+
+
+@media only screen and(max-width:1300px) {
+
+    .img1 {
+        width: 200px;
+        margin-left: 200px;
+    }
+}
+
 body {
     margin: 0;
     font-family: sans-serif;
 }
 
-.row {
-    width: 123%;
-    margin-left: -21px;
+#r1 {
+    width: 122%;
+    margin-left: -22px;
 }
+
 
 
 .hro {
     width: 122%;
     height: 530px;
     background-color: black;
-   
+
 
 }
 
 .hh {
     color: white;
     font-family: serif;
-    font-size: 40px;
+    font-size: 45px;
     margin-left: 133px;
     margin-top: 86px;
     padding-top: 75px;
 }
 
 .dw1:hover {
-    background-color:#191919;
+    background-color: #191919;
 }
 
 .cc {
-    margin-top: 18px;
-    margin-left: 100px;
+    margin-top: -154px;
+    margin-left: 367px;
     border-radius: 9px;
-    width: 240px;
-    height: 36px;
+    width: 440px;
+    height: 49px;
+    background-color: #1f1d1d;
+    color: white;
+    float: left;
 }
 
+
+
+
+
 .buttonn {
-    margin-left: 130px;
-    margin-top: 13px;
+    margin-left: 167px;
+    margin-top: 43px;
+    padding-left: 26px;
+    float: right;
+    margin-right: 766px
 }
 
 .buttonn:hover {
@@ -718,52 +783,158 @@ body {
     background-color: transparent;
 }
 
-.fa-brands{
+.fa-brands {
 
-        font-weight: 400;
-        width: 38px;
-        height: 41px;
-        margin-top: 2px;
-        font-size: 24px;
-        color: white;
-        margin-left: 14px;
+    font-weight: 400;
+    width: 38px;
+    height: 41px;
+    margin-top: 2px;
+    font-size: 24px;
+    color: white;
+    margin-left: 14px;
 }
 
-.mm{
+.mm {
     margin-left: 191px;
 }
-body{
-width: 100%;
+
+body {
+    width: 100%;
 }
 
-.fa-brands:hover{
+.fa-brands:hover {
     color: #f9004d;
 }
-.dw1:hover{
+
+.dw1:hover {
     background-color: #191919;
 }
-.navbar{
+
+.navbar {
     background-color: black;
     width: 122%;
-  
+
 }
 
-.nav-link1{
+.nav-link1 {
     color: white;
     text-decoration: none;
     margin-top: 8px;
     float: left;
 }
-.nav-link2{
+
+.nav-link2 {
     color: white;
     text-decoration: none;
     float: left;
     margin-top: 7px;
 }
 
-.nav-link1:hover{
-    text-decoration:underline #f9004d;
-}
-.nav-link2:hover{
+.nav-link1:hover {
     text-decoration: underline #f9004d;
+}
+
+.nav-link2:hover {
+    text-decoration: underline #f9004d;
+}
+
+
+.ath {
+    background-color: black;
+    height: 692px;
+    margin-right: -10px;
+}
+
+#uuu {
+    width: 123%;
+    height: 600px;
+    background-color: black;
+}
+
+#qq {
+    margin-top: 102px;
+    margin-left: -187px;
+}
+
+#ii {
+    margin-top: 9px;
+    margin-left: 145px;
+    color: white;
+    font-size: 17px;
+}
+#env1{
+    margin-left: 141px;
+
+    margin-top: 29px;
+    width: 35px;
+    font-size: 24px;
+    color: white;
+}
+#ii:hover{
+    color: #f9004d;
+}
+#env1:hover{
+    color: #f9004d;
+}
+.bg-black {}
+
+.ua {
+    margin-left: 367px;
+    margin-top: 211px;
+    width: 440px;
+    background: 191919;
+    background-color: #191919;
+    color: white;
+    border-radius: 9px;
+    height: 48px;
+}
+
+
+.ua1 {
+    margin-left: 371px;
+    margin-top: -16px;
+    width: 440px;
+    background: 191919;
+    background-color: #191919;
+    color: white;
+    border-radius: 9px;
+}
+
+.nn1 {
+    margin-left: 20px;
+}
+
+#is {
+    height: 750px;
+    margin-right: -13px;
+
+}
+
+#x1 {
+    margin-left: -358px;
+    width: 70%;
+
+}
+
+#ll {
+    background-color: black;
+    margin-left: 7px;
+    width: 121%;
+}
+
+.row {
+    background-color: black;
+    width: 122%;
+    margin-left: -1px;
+}
+
+#button2 {
+    margin-left: 167px;
+    margin-top: 43px;
+    padding-left: 26px;
+    float: right;
+    margin-right: 766px
+}
+.ddd{
+margin-left: 134px;
 }
