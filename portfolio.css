@@ -246,8 +246,10 @@ p {
     margin-top: -40px;
 }
 
-#p7{
-    margin-left: 50px;
+#p15{
+    margin-left: 369px;
+    margin-top: -38px;
+
 
 }
 .img7:hover {
@@ -407,10 +409,10 @@ video:hover {}
 @media only screen and (max-width:700px) {
     .gg1 {
         font-size: x-small;
-        padding-left: 68px;
+        padding-left: 230px;
         padding-top: -50px;
         float: left;
-        margin-top: 154px;
+        margin-top: 23px;
 
     }
 
@@ -420,8 +422,8 @@ video:hover {}
         padding-left: 41px;
         padding-top: -50px;
         float: left;
-        margin-top: 276px;
-        margin-left: -379px;
+        margin-top: 126px;
+        margin-left: -360px;
         padding-right: 99px;
         padding: 8px;
         height: 44px;
@@ -461,7 +463,7 @@ video:hover {}
     }
 
     .imag1 {
-        margin-left: 252px;
+        margin-left: 239px;
         width: 200px;
         height: 200px;
         margin-top: 211px;
@@ -553,6 +555,9 @@ video:hover {}
         margin-left: 97px;
     }
 
+    p{
+        margin-left: 97px;
+    }
     .hh3 {
         font-size: xx-large;
     }
@@ -560,7 +565,7 @@ video:hover {}
     #p2 {
 
         margin-left: 195px;
-        margin-top: -40px;
+        margin-top: -26px;
     }
 
     #p3 {
@@ -602,8 +607,9 @@ video:hover {}
         margin-left: 20px;
     }
 
-    #p7 {
-        margin-left: 100px;
+    #p15 {
+        margin-left: 286px;
+        margin-top: -40px;
     }
 
     #p8 {
@@ -651,7 +657,7 @@ video:hover {}
 
     #div2 {
         width: 101%;
-        height: 1550px;
+        height: 1605px;
         margin-left: 22px;
     
     }
@@ -733,6 +739,12 @@ video:hover {}
     .xxw{
                 margin-left: 20px;
     }
+
+    .multiple-text{
+        color: #f9004d;
+        font-size:medium;
+    }
+    
 }
 
 
